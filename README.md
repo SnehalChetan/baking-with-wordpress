@@ -7,9 +7,9 @@ Visit the webpage [Cake&Creams](https://cakeandcreams.wordpress.com/).
 - Decide and select a free domain name from wordpress official website(wordpress.com) for that I have to register with it.
 
 ### Learn From BesArt Story Telling
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once upon a time there is a girl who know a what wordpress is and how it's client side works? But she don't like it much. So she joins the web dev at Becode to learn as Mo-mo said "new thingy"  and learned some new fundamentals and some frameworks of Web development which help her in her career path. Now she gets an exercise from coaches to create a website using wordpress.com to learn how it works. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once upon a time there is a girl who know a what wordpress is? and how it's client side works? But she don't like it much. So she joins the web dev at Becode to learn as Mo-mo said "new thingy"  and learned some new fundamentals and some frameworks of Web development which help her in her career path. Now she gets an exercise from coaches to create a website using wordpress.com to learn how it works. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But as she's crawling towards the finish line of exercise she and her friend Shiva feels confusing and ask for Besart and Mo-Mo's help in that.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But as she's crawling towards the finish line of exercise she and her friend Shi-shi feels confusing and ask for Besart and Mo-Mo's help in that.
 
 ### Work Time
 &nbsp;&nbsp;&nbsp;&nbsp; In this assignment create a bakery website by your own with the tools provided by wordpress.com and select a nice domain name (free one) and publish the site url.
